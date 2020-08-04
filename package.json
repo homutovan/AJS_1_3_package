@@ -1,0 +1,19 @@
+{
+  "name": "ajs_1_3_package",
+  "version": "1.0.0",
+  "description": "ajs_1_3_package",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homutovan/AJS_1_3_package.git"
+  },
+  "author": "homutovan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/homutovan/AJS_1_3_package/issues"
+  },
+  "homepage": "https://github.com/homutovan/AJS_1_3_package#readme"
+}
